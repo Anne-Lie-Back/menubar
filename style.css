@@ -10,7 +10,16 @@ header{
     height:5rem;
     width:100%;
     background: black;
+    justify-content: flex-start;
 }
+
+.burger{
+    margin:1.5rem;
+    color:white;
+    font-size:2rem;
+    z-index: 1000;
+}
+
 
 main{
     position:absolute;
